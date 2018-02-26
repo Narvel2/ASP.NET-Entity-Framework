@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AdrianPiecykLab6/bin
+/AdrianPiecykLab6/obj/Debug
+/packages
