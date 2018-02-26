@@ -1,0 +1,101 @@
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\ApplicationInsights.config
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\csc.exe
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\System.Collections.Immutable.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\vbc.exe
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\VBCSCompiler.exe
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\VBCSCompiler.exe.config
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\AdrianPiecykLab6.dll.config
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\AdrianPiecykLab6.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\AdrianPiecykLab6.pdb
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\EntityFramework.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\EntityFramework.SqlServer.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.Web.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.WindowsServer.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.ApplicationInsights.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\Newtonsoft.Json.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\System.Net.Http.Formatting.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\System.Web.Http.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\System.Web.Http.WebHost.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\EntityFramework.xml
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\EntityFramework.SqlServer.xml
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.Web.xml
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.WindowsServer.xml
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.ApplicationInsights.xml
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\Newtonsoft.Json.xml
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\System.Net.Http.Formatting.xml
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\System.Web.Http.xml
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\System.Web.Http.WebHost.xml
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\pl\System.Net.Http.Formatting.resources.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\pl\System.Web.Http.resources.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\bin\pl\System.Web.Http.WebHost.resources.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\obj\Debug\AdrianPiecykLab6.dll
+c:\users\adrian\documents\visual studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\obj\Debug\AdrianPiecykLab6.pdb
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\obj\Debug\AdrianPiecykLab6.Migrations.init.resources
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\obj\Debug\AdrianPiecykLab6.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\Visual Studio 2015\Projects\AdrianPiecykLab6\AdrianPiecykLab6\obj\Debug\AdrianPiecykLab6.Migrations.FirstMigratin.resources
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\ApplicationInsights.config
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\csc.exe
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\System.Collections.Immutable.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\System.Reflection.Metadata.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\vbc.exe
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\VBCSCompiler.exe
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\roslyn\VBCSCompiler.exe.config
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\AdrianPiecykLab6.dll.config
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\AdrianPiecykLab6.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\AdrianPiecykLab6.pdb
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\EntityFramework.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\EntityFramework.SqlServer.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.DependencyCollector.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.Web.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.WindowsServer.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.ApplicationInsights.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\Newtonsoft.Json.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\System.Net.Http.Formatting.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\System.Web.Http.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\System.Web.Http.WebHost.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\EntityFramework.xml
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\EntityFramework.SqlServer.xml
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.DependencyCollector.xml
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.Web.xml
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.AI.WindowsServer.xml
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.ApplicationInsights.xml
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\Newtonsoft.Json.xml
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\System.Net.Http.Formatting.xml
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\System.Web.Http.xml
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\System.Web.Http.WebHost.xml
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\pl\System.Net.Http.Formatting.resources.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\pl\System.Web.Http.resources.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\bin\pl\System.Web.Http.WebHost.resources.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\obj\Debug\AdrianPiecykLab6.csprojResolveAssemblyReference.cache
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\obj\Debug\AdrianPiecykLab6.Migrations.init.resources
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\obj\Debug\AdrianPiecykLab6.Migrations.FirstMigratin.resources
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\obj\Debug\AdrianPiecykLab6.csproj.GenerateResource.Cache
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\obj\Debug\AdrianPiecykLab6.dll
+C:\cpc2017-2\adrianpiecyk\Laby5Up\AdrianPiecykLab6\AdrianPiecykLab6\obj\Debug\AdrianPiecykLab6.pdb
